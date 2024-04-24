@@ -41,7 +41,6 @@
 
 ###
 
-<p align="left">A few are technologies I use, and a few are technologies we can chat about. --></p>
 
 ###
 
