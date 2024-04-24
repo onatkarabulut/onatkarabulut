@@ -20,6 +20,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onatkarabulut&locale=en&hide_title=false&layout=compact&langs_count=10&theme=blue-green&hide_border=false" alt="languages graph"  />
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=onatkarabulut&theme=dark&backgroundColor=040f0f&borderColor=cccbcc&textColor=0cf473&primaryColor=e34c26)](https://www.codewars.com/users/onatkarabulut)
+
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=onatkarabulut&name=true&top_languages=true&hide_clan=true&theme=gradient_midnight_puple)-->
+
 </div>
   
 ###
@@ -36,7 +40,9 @@
   <a href="https://leetcode.com/onatkarabulut/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="leetcode logo">
   </a>
+
 </div>
+
 
 
 ###
