@@ -116,3 +116,4 @@
 </div>
 
 ###
+<p align="rigt">" <i>People want to classify themselves to feel less tired and think, to feel like they belong to a category. But tiredness is the only thing that develops your talents.<i> "</p>
