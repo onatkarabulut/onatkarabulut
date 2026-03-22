@@ -4,14 +4,7 @@
 
 <br clear="both">
 
-###
 
-<div align="center">
-    <img height="300" src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif" alt="donut code" />
-</div>
-<br clear="both">
-
-###
 
 
   
@@ -113,6 +106,14 @@
 
 <br clear="both">
 
+###
+
+<div align="center">
+    <img height="300" src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif" alt="donut code" />
+</div>
+<br clear="both">
+
+###
 
 ###
 <p align="rigt">" <i>People want to classify themselves to feel less tired and think, to feel like they belong to a category. But tiredness is the only thing that develops your talents.<i> "</p>
